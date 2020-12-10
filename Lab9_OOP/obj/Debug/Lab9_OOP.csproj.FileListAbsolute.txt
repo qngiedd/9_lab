@@ -1,0 +1,7 @@
+C:\Users\imngl\source\repos\Lab9_OOP\Lab9_OOP\obj\Debug\Lab9_OOP.csprojAssemblyReference.cache
+C:\Users\imngl\source\repos\Lab9_OOP\Lab9_OOP\obj\Debug\Lab9_OOP.csproj.CoreCompileInputs.cache
+C:\Users\imngl\source\repos\Lab9_OOP\Lab9_OOP\bin\Debug\Lab9_OOP.exe.config
+C:\Users\imngl\source\repos\Lab9_OOP\Lab9_OOP\bin\Debug\Lab9_OOP.exe
+C:\Users\imngl\source\repos\Lab9_OOP\Lab9_OOP\bin\Debug\Lab9_OOP.pdb
+C:\Users\imngl\source\repos\Lab9_OOP\Lab9_OOP\obj\Debug\Lab9_OOP.exe
+C:\Users\imngl\source\repos\Lab9_OOP\Lab9_OOP\obj\Debug\Lab9_OOP.pdb
